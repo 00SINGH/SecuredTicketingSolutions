@@ -1,0 +1,55 @@
+
+
+.container
+{
+	padding-top: 5px;
+}
+
+.form-control
+{
+	color: #000000;
+	font-family: verdana;
+	font-size: 13px;
+}
+
+.form-group
+{
+	font-family: verdana;
+	color: darkblue;
+	font-size: 13px;
+}
+
+td
+{
+	font-size: 13px;
+}
+
+th
+{
+	font-size: 13px;
+}
+
+.pager
+{
+	font-size: 12px;
+}
+
+th#view 
+{
+	width: 14%;	
+}
+
+td#content 
+{
+	width: 30%;
+}
+
+td#space 
+{
+	width: 1%;
+}
+
+td#content2
+{
+	width: 30%;
+}
